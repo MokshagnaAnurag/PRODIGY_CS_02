@@ -89,4 +89,4 @@ if __name__ == '__main__':
 2. Run the script. It will create `encrypted_image.png` and `decrypted_image.png`.
 3. Verify the results by viewing the images.
 
-This simple example is a starting point for image encryption using pixel manipulation. For more security, consider using more advanced encryption methods or libraries designed specifically for cryptography.
+
